@@ -12,3 +12,6 @@ Dowload the zip folder and unzip the folder in the directory of your wordpress f
 
 # Contrbution
 You can contribute to this project by adding more customizeble features to the website theme like the size of the login button 
+# Here are some example
+![Screenshot 2024-02-25 122822](https://github.com/Yonatankinfe/Customizeble_Wordpress_Login_Theme/assets/158090444/2f464d2d-3426-46a2-82af-a385d374c1aa)
+![Screenshot 2024-02-25 145406](https://github.com/Yonatankinfe/Customizeble_Wordpress_Login_Theme/assets/158090444/4e7e2cc6-4ebc-4be9-be61-3a6289ca254d)
