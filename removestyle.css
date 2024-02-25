@@ -1,0 +1,21 @@
+.topnav {
+    background-color: rgb(189, 137, 41);
+    overflow: hidden;
+    text-align: center; /* Center the links horizontally */
+  }
+          .topnav a {
+              display: inline-block; /* Display links inline */
+              color: #f2f2f2;
+              text-align: center;
+              padding: 14px 26px;
+              text-decoration: none;
+              font-size: 17px;
+            }
+            
+            /* Change the color of the links on hover */
+            .topnav a:hover {
+              font-size: 15px;
+              font-style: bold;
+              background-color: orange;
+              color: rgb(251, 248, 248);
+            }

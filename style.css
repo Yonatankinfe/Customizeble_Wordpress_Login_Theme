@@ -1,0 +1,56 @@
+/*
+Theme Name: Customizeble_Login_Theme
+Theme URI: https://github.com/Yonatankinfe/Customizeble_Wordpress_Login_Theme/blob/main/README.md#installationusage
+Author: Yonatan Kinfe Berhe 
+Author URI: https://github.com/Yonatankinfe/Customizeble_Wordpress_Login_Theme/blob/main/README.md#installationusage
+Description : Welcome to the Customizable WordPress Login Theme repository! This project offers a versatile and user-friendly solution to enhance the login experience for WordPress websites. With this customizable theme, you can elevate the aesthetics and functionality of your WordPress login page to align with your brand identity and user preferences. 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+/* Reset CSS */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-card {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-card h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-card input[type="text"],
+.login-card input[type="password"],
+.login-card button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-card button {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.login-card button:hover {
+    background-color: #0056b3;
+}
