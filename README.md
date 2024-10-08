@@ -4,7 +4,7 @@ Welcome to the Customizable WordPress Login Theme repository! 🎨 This project 
 
 ✨ Features:
 
-+ 1️⃣ Customization Options: Tailor the login page according to your branding guidelines with easy-to-use customization options.
+1️⃣ Customization Options: Tailor the login page according to your branding guidelines with easy-to-use customization options.
 + 2️⃣ Background Image & Login Button Color: 🌅 Customize the background image as needed, and change the login button color 🎨 to match your brand.
  + 3️⃣ Responsive Design: 📱 Ensure a seamless login experience across various devices and screen sizes.
 
